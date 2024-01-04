@@ -1,19 +1,21 @@
-Descripción
+# Descripción
 
 <-- Agrega una descripción del user story !-->
 
-Resumen de los cambios
+# Resumen de los cambios
 
 <-- Agrega una breve descripción de los cambios !-->
 
-Checklist
+# Checklist
 
- 📖 new feature/ nueva tarea realizada
- 📚 Documentación actualizada
- 📑 Se realizo un test
- 📄 los test estan correctos
+[ ] 📖 new feature/ nueva tarea realizada
+[ ] 📚 Documentación actualizada
+[ ] 📑 Se realizo un test
+[ ] 📄 los test estan correctos
 Notas
 
 <-- Agrega notas adicionales !-->
 
-Screensshots
+# Screensshots
+
+[ ] ¿ Screenshots ?
